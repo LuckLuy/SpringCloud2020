@@ -1,0 +1,5 @@
+
+启动服务：
+1，前提是已经在hosts 文件上添加 config-3344.com 端口.
+2,访问以下路径可以获取github 上的数据。
+http://config-3344.com:3344/master/config-dev.yml
